@@ -28,6 +28,6 @@
     "hexo-theme-landscape": "^1.0.0"
   },
   "devDependencies": {
-    "hexo-feed": "^1.1.1"
+    "hexo-feed": "^1.1.2"
   }
 }
